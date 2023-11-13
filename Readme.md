@@ -1,5 +1,5 @@
 ## Hi, I am Andrey
-Thank you for visiting my GitHub repositories. At the moment, there are five projects presented here.
+Thank you for visiting my GitHub repositories. Currently, there are five projects presented here.
 
 ### <a href="https://github.com/AndreyMaykov/Shipping_resources_availability--SQL">1. Shipping Resources Availability Project &ndash; SQL</a></br><a href="https://github.com/AndreyMaykov/Online_marketplace_shipping--SQL">2. Online Marketplace Shipping Project &ndash; SQL</a>
 The goal of these two projects is to provide for shipping resources management functionality of an online marketplace system. To maintain data integrity and facilitate shipment planning, triggers and stored procedures are extensively used. 
