@@ -5,7 +5,7 @@ Thank you for visiting my GitHub repositories. At the moment, there are five pro
 The goal of these two projects is to provide for shipping resources management functionality of an online marketplace system. To maintain data integrity and facilitate shipment planning, triggers and stored procedures are extensively used. 
 
 ### <a href="https://github.com/AndreyMaykov/Square_data_import_automation--Python-SQL-AWS">3. Square Data Import Automation Project &ndash; Python-SQL-AWS</a>
-This project aims at developing an automated system for importing data from multiple Square online stores. The information on the products offered at the stores is processed and standardized so that it could be downloaded into the destination relational database for further use. The information in the destination DB is synchronized with the sources on the Square platform: each time when a participating merchant alters the catalog of their Square online store, the data in the destination DB is updated accordingly.
+This project aims at developing an automated system for importing data from multiple Square online stores to a destination database. The importation process involves transforming the original data to comply with the specifications of the destination DB. Also, the system ensures automatic data synchronization: whenever a participating merchant alters the catalog of their Square online store, the data in the destination DB is updated accordingly.
 
 ***
 **Projects 1 &ndash; 3** are closely related to the development of an e-commerce solution (online marketplace) I was involved in during my work placement at **SwiftRoot Inc**.
