@@ -14,10 +14,13 @@ This project aims at developing an automated system for importing data from mult
 ### <a href="https://github.com/AndreyMaykov/Weather_factors_in_crime--Redshift-Airflow-Terraform">4. Weather Factors in Crime &ndash; Redshift-Airflow-Terraform</a>
 Data pipelines used to study correlations between combinations of weather factors and the incidence of various types of crime must be capable of processing large raw datasets with high temporal and spatial granularity. This simple learning project is meant to be a first phase of building such a data pipeline.
 
-
+<!-- 
 ### <a href="https://github.com/AndreyMaykov/The_Klein-Gordon_equation">5. The Klein-Gordon equation &ndash; C++</a>
 In this project, a code for numerically solving the initial-boundary problem</br>
 ![ ](https://github.com/AndreyMaykov/The_Klein-Gordon_equation/blob/main/img/IBPx0.4_cropped.png)</br>
 was developed. 
 
 This problem is related to **the Klein-Gordon equation** and is important for testing the so-called **open boundary conditions** (also known as transparent or non-reflecting boundary conditions) for equations that describe electromagnetic or acoustic waves in various media.
+-->
+
+<!-- This content will not appear in the rendered Markdown -->
